@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body{
-	font-family: lato, sans-serif;
+	font-family: 'lato', sans-serif;
 	color: #d5dce2;
 	background-color: #333;
 	margin: 0px;
@@ -52,7 +52,7 @@ body{
 	font-size: 24px;
 	text-align: center;
 	color: #ffffff;
-	font-family: courgette, sans-serif;
+	font-family: 'courgette', sans-serif;
 	font-style: normal;
 	font-weight: 300;
 	padding: 7px;
@@ -72,7 +72,7 @@ nav a{
 	background-color: #485560;
 	padding-top: 5px;
 	padding-bottom: 5px;
-	font-family: courgette, sans-serif;
+	font-family: 'courgette', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 1.3em;
@@ -137,7 +137,7 @@ h2, h3{
 	margin-left: 1%;
 	margin-right: 1%;
 	float: left;
-	
+
 }
 
 #topic-one-img{
@@ -211,4 +211,3 @@ h2, h3{
 		width: 100%;
 	}
 }
-
