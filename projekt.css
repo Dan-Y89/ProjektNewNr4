@@ -241,3 +241,12 @@ h2, h3{
 	}
 }
 
+.archiv li::before {
+	content: url(http://files.softicons.com/download/system-icons/lozengue-filetype-icons-by-gurato/png/48/HTML.png);
+	vertical-align: -10px;
+	margin-right: .5em;
+}
+
+.archiv li {
+	list-style: none;
+}
