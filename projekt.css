@@ -118,7 +118,7 @@ h2, h3{
 }
 
 #wp{
-	background-image: url("img/wordpress.png");
+	background-image: url("img/wordpressn.png");
 	margin-top: 25px;
 	border:0;
 	outline-style:none;
@@ -131,7 +131,7 @@ h2, h3{
 	border:0;
 	outline-style:none;
 	outline-width:0;
-	
+
 }
 
 .featured-img{
@@ -146,15 +146,15 @@ h2, h3{
 }
 
 .wp-img{
-	width: 290px;
+	width: 157px;
 	border-radius: 10%;
-	height: 180px;
+	height: 150px;
 	background-size: cover;
 	margin-left: auto;
 	margin-right: auto;
 	border-style: solid;
 	border-width: thick;
-	
+
 }
 
 .feature-images{
